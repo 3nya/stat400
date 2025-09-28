@@ -15,10 +15,10 @@ Week 3
 
 Week 4
 - [[Moments]] - [[Moment Generating Function]]
-- [[Binomial Distribution]]
-- [[Geometric Distribution]]
+- [[Binomial Distribution]] - probability of $k$ successes in $n$ trials
+- [[Geometric Distribution]] - probability of first success
 
 Week 5
 - [[Binomial Distribution]] cont
-	- [[Negative Binomal Distribution]]
+	- [[Negative Binomal Distribution]] - probability of $k$th success on $n$th trial, amount of trials needed for $k$ successes
 	

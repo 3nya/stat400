@@ -1,4 +1,4 @@
-A sequence of independent [[Bernoulli|bernoulli trials]] until the first success occurs.
+A sequence of $x$ independent [[Bernoulli|bernoulli trials]] until the first success occurs.
 
 If $X$ is the number of trials that until the first success, $X$ has a **geometric** distribution with parameter $p$.
 
