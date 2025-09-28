@@ -9,9 +9,10 @@ Week 2
 
 Week 3
 - [[Discrete Random Variable]]
-- [[Probability Mass Function]]
+- [[Probability Mass Function]] - [[Cummulative Mass Function]]
 - [[Variance]]
 - [[Standard Deviation]]
+- [[Expected Value]]
 
 Week 4
 - [[Moments]] - [[Moment Generating Function]]
