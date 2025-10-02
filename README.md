@@ -23,3 +23,6 @@ Week 5
 - [[Binomial Distribution]] cont
 	- [[Negative Binomal Distribution]] - probability of $k$th success on $n$th trial, amount of trials needed for $k$ successes
 	
+Week 6
+- [[Poisson Process]]
+- [[Continuous Random Variables]]

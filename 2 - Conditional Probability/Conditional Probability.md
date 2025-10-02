@@ -1,4 +1,4 @@
-> An extension of [[Probability]]
+5> An extension of [[Probability]]
 
 $P(A \mid B)$ - Probability of $A$ given that $B$ has already occured 
 
