@@ -8,3 +8,5 @@ $f(x)$ is a integrable function that satisfies the conditions:
 - $\int_S f(x)dx = 1$ - sum of all probabilities is 1
 - If $(a,b) \subseteq S$, then:
 $$P(a < x < b) = \int_a^bf(x)dx$$
+expected value:
+$$E[X] = \int^b_ax\cdot f(x)$$

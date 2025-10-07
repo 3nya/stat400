@@ -26,3 +26,10 @@ Week 5
 Week 6
 - [[Poisson Process]]
 - [[Continuous Random Variables]]
+- [[Exponential Distribution]]
+
+Week 7
+- [[Memoryless]]
+- [[Gamma Distribution]]
+- [[Normal Distribution]]
+- 
