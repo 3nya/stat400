@@ -49,3 +49,37 @@ dgeom(4, 0.30)                # using pmf
 # P(X <= 5) = P(Y <= 4) = ...
 pgeom(4, 0.30)                # using cdf
 ```
+
+## [[Exponential Distribution]]
+```R
+dexp(x, rate = 1, log = FALSE)
+pexp(q, rate = 1, lower.tail = TRUE, log.p = FALSE)
+
+# rate (lambda) = 1 / theta
+
+# Example usuage:
+# X ~ Exponential(θ = 7), note that rate = λ = 1/7
+
+# P(X = 4)
+dexp(4, 1/7)              # using pmf
+
+# P(X <= 5)
+pexp(5, 1/7)              # using cdf
+```
+## [[Gamma Distribution]]
+```R
+dgamma(x, shape, rate = 1, scale = 1/rate, log = FALSE)
+pgamma(q, shape, rate = 1, scale = 1/rate, lower.tail = TRUE,
+       log.p = FALSE)
+       
+# rate (lambda) = 1 / theta
+
+# Example usage:
+# X ~ Gamma(α = 3, θ = 2), note that rate = λ = 1/2
+
+# P(X = 4)
+dgamma(4, 3, 1/2)              # using pmf
+
+# P(X <= 5)
+pgamma(5, 3, 1/2)              # using cdf
+```
