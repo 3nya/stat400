@@ -8,3 +8,8 @@ Approximately 68/95/99.7% of the mean falls within 1/2/3 standard deviations of 
 
 ![[Pasted image 20251006104640.png]]
 
+
+## Normal To Binomial
+
+Using the [[Central Limit Theorem]], we can represent a [[Binomial Distribution]] as a Normal Distribution!
+

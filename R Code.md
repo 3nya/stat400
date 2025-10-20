@@ -83,3 +83,21 @@ dgamma(4, 3, 1/2)              # using pmf
 # P(X <= 5)
 pgamma(5, 3, 1/2)              # using cdf
 ```
+
+## [[Normal Distribution]]
+```R
+# For all norm distributions, you must specifiy
+# mean and sd
+
+# Example usage:
+# X ~ Normal(0, 1)
+# For probability at a specific point
+dnorm(x, mean = 0, sd = 1)
+
+# For cummulative probability from -infty to a given point
+pnorm(x, mean = 0, sd = 1)
+
+# For value given the distribution and percentile
+# Asking for 0.75 means the 75th percentile (ie the 3rd quartile)
+qnorm(0.75, mean = 0, sd = 1)
+```

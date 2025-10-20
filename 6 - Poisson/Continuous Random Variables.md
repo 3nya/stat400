@@ -1,8 +1,8 @@
 [[Discrete Random Variable]] references variables that are countable. **Continuous** is uncountable -- floating point etc. 
 
 We can use the [[Fundamental Theorem of Calculus]] for using continuous random variables. 
-$$F(X) = \int_a^xf(t)dt$$
-Where $F(X)$ represents the [[Cummulative Mass Function]] and $f(x)$ js tbe [[Probability Mass Function]]
+$$F(X) = P(X \leq x) = \int_a^xf(t)dt$$
+Where $F(X)$ represents the [[Cummulative Mass Function]] and $f(t)$ js tbe [[Probability Mass Function]]
 
 
 ## Properties
@@ -11,3 +11,8 @@ Continuious functions cannot calculate probabilities the same way discrete funct
 
 Instead, we will find the probability that $x$ is within an interval or range.
 
+
+## Distributions
+- [[Uniform Distribution]]
+- [[Exponential Distribution]]
+- [[Normal Distribution]]

@@ -32,4 +32,8 @@ Week 7
 - [[Memoryless]]
 - [[Gamma Distribution]]
 - [[Normal Distribution]]
-- 
+
+Week 8
+- [[Covariance]]
+- [[Correlation]]
+- [[Central Limit Theorem]]

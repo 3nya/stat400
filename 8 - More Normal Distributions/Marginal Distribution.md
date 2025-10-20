@@ -1,0 +1,1 @@
+The distribution of a singular variable. Ie probably in a [[Joint Probability|joint distribution]].
