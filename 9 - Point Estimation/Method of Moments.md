@@ -1,0 +1,1 @@
+Using either the first or second moment (or both), set the theoretical moments to the sample moments and solve for the variable in mind.

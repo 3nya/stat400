@@ -37,3 +37,8 @@ Week 8
 - [[Covariance]]
 - [[Correlation]]
 - [[Central Limit Theorem]]
+
+Week 9
+- [[Point Esitimation]]
+	- [[Method of Moments]]
+	- [[Maximum Likelihood]]
