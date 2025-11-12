@@ -21,3 +21,7 @@ $Var[aX+b] = a^2 \cdot Var[X]$
 
 [[Standard Deviation]]
 $SD[aX+b] = |a| \cdot SD[X]$
+
+
+### for 2 variables,
+
