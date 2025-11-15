@@ -39,6 +39,38 @@ Week 8
 - [[Central Limit Theorem]]
 
 Week 9
-- [[Point Esitimation]]
-	- [[Method of Moments]]
-	- [[Maximum Likelihood]]
+- [[Point Estimation|Point Estimation + Bias]]
+	- [[Method of Moments|Method of Moments (MoM/MME)]]
+	- [[Maximum Likelihood|Maximum Likelihood (MLE)]]
+
+Week 10
+- [[Chi Square Distribution]]
+- [[T Distribution]]
+- [[Confidence Intervals]]
+
+
+
+Misc:
+- [[R Code]]
+- [[Distribution Summary]]
+- Tables:
+	- [[Reading Chi Square Table]]
+	- [[Reading T Table]]
+
+
+
+
+- [ ] Normal Approximation of Discrete Random Variables
+- [x] Point Estimation
+    - [ ] MLE
+    - [x] MME
+    - [ ] Unbiased Estimators
+- [ ] Chi-Square, Student's _t_ Distributions
+- [ ] Confidence Intervals for the following
+    - [ ] Population Mean (sigma known; sigma unknown)
+    - [ ] Population Proportion
+    - [ ] Population Variance, SD
+- [ ] Sample Size Selection for a CI of
+    - [ ] Population Mean (sigma known; sigma unknown)
+    - [ ] Population Proportion
+- [ ] The following will _NOT_ be on Exam 3: Hypothesis Testing for Population Mean (sigma known; sigma unknown), Population Proportion, CIs/Tests of Two Means
