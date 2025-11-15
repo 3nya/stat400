@@ -49,7 +49,6 @@ Week 10
 - [[Confidence Intervals]]
 
 
-
 Misc:
 - [[R Code]]
 - [[Distribution Summary]]
@@ -62,9 +61,9 @@ Misc:
 
 - [ ] Normal Approximation of Discrete Random Variables
 - [x] Point Estimation
-    - [ ] MLE
+    - [x] MLE
     - [x] MME
-    - [ ] Unbiased Estimators
+    - [x] Unbiased Estimators
 - [ ] Chi-Square, Student's _t_ Distributions
 - [ ] Confidence Intervals for the following
     - [ ] Population Mean (sigma known; sigma unknown)

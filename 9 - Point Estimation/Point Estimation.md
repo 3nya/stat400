@@ -9,7 +9,7 @@ Use MoM when the [[Probability Mass Function|PMF]] (ie the probability distribut
 
 ## Checking Bias
 
-An estimator is considered **biased** if the expected value of the estimator minus the actual value is not 0. 
+An estimator is considered **biased** if the expected value of the estimator minus the true parameter value is not 0. 
 Example:
 $$Bias(\hat\sigma) = E[\hat\sigma] - \sigma^2$$
 If the bias is negative, the estimator is underestimating
