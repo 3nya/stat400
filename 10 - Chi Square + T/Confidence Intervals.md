@@ -22,3 +22,11 @@ $$s_{\bar{X}} = \frac{s}{\sqrt{n}}$$
 
 $$s_{\bar{X}} = \frac{\sigma}{\sqrt{n}}$$
 
+## For variance
+
+$$(\frac{(n-1)s^2}{\chi^2_{\alpha/2}}, \frac{(n-1)s^2}{\chi^2_{1- \alpha/2}})$$
+Notice the difference between the difference chi-square $\chi^2$ values.
+
+**Upper bound**$$(0, \frac{(n-1)s^2}{\chi^2_{1- \alpha}})$$
+
+**Lower bound**$$(\frac{(n-1)s^2}{\chi^2_{\alpha}}, \infty)$$
